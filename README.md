@@ -1,2 +1,2 @@
-# Dure_
+# Dure
 vscode-extension
